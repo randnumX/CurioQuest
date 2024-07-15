@@ -1,0 +1,22 @@
+.header-main {
+    height: auto;
+    background-color: #BEE6CE;
+    width: 100%;
+    display: flex;
+}
+
+.header-logo {
+display: inherit;
+}
+
+.header-right {
+    position: absolute;
+    right: 0px;
+    margin: 10px;
+}
+.header-middle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}

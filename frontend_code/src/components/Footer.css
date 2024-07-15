@@ -1,0 +1,23 @@
+.footer-main {
+    height: auto;
+    background-color: #BEE6CE;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    padding: 0px 0px 0px 0px;
+    
+}
+
+.footer-right {
+    position: absolute;
+    right: 10px;
+}
+
+
+.footer-left {
+    position: relative;
+    left : 10px;
+}
+
+/* https://coolors.co/bee6ce-bcffdb-8dffcd-68d89b-4f9d69 */
